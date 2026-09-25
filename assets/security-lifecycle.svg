@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">ContactIQ security engineering lifecycle</title>
+<desc id="desc">Assess, Secure, Validate, Operate security engineering lifecycle.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#172033}.title{font-size:28px;font-weight:700}.step{font-size:24px;font-weight:700}.body{font-size:16px}.box{fill:#f6f8fa;stroke:#d0d7de;stroke-width:2}.arrow{fill:#57606a}
+</style>
+<rect width="1200" height="280" rx="18" fill="white"/>
+<text x="40" y="48" class="title">ContactIQ Security Engineering Lifecycle</text>
+<rect class="box" x="40" y="80" width="245" height="145" rx="14"/>
+<text x="65" y="120" class="step">1. ASSESS</text><text x="65" y="154" class="body">Architecture • Auth • AppSec</text><text x="65" y="180" class="body">AI/LLM • Privacy • Dependencies</text>
+<polygon class="arrow" points="300,145 335,145 335,132 360,152 335,172 335,159 300,159"/>
+<rect class="box" x="375" y="80" width="245" height="145" rx="14"/>
+<text x="400" y="120" class="step">2. SECURE</text><text x="400" y="154" class="body">Remediate • Harden • Guardrails</text><text x="400" y="180" class="body">Secrets • Privacy • Documentation</text>
+<polygon class="arrow" points="635,145 670,145 670,132 695,152 670,172 670,159 635,159"/>
+<rect class="box" x="710" y="80" width="205" height="145" rx="14"/>
+<text x="735" y="120" class="step">3. VALIDATE</text><text x="735" y="154" class="body">Runtime • Headers • APIs</text><text x="735" y="180" class="body">Caching • Indexing • Evidence</text>
+<polygon class="arrow" points="930,145 965,145 965,132 990,152 965,172 965,159 930,159"/>
+<rect class="box" x="1005" y="80" width="155" height="145" rx="14"/>
+<text x="1030" y="120" class="step">4. OPERATE</text><text x="1030" y="154" class="body">Vuln Mgmt</text><text x="1030" y="180" class="body">IR • Recovery</text>
+</svg>
