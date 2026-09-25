@@ -14,6 +14,10 @@ The remediation changed the production serving model so the frontend and API tra
 
 **Assessment → Remediation → Deployment Validation → Operational Readiness**
 
+![ContactIQ deployment architecture before and after remediation](assets/architecture-before-after.svg)
+
+![ContactIQ security engineering lifecycle](assets/security-lifecycle.svg)
+
 ---
 
 ## Architecture
