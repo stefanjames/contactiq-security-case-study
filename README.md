@@ -12,9 +12,17 @@ The most important finding was not a vulnerable dependency or an obvious coding 
 
 The remediation changed the production serving model so the frontend and API traverse a unified Express security boundary.
 
-**Assessment → Remediation → Deployment Validation → Operational Readiness**
+**ASSESS → SECURE → VALIDATE → OPERATE**
 
-![ContactIQ deployment architecture before and after remediation](assets/architecture-before-after.svg)
+[**Live ContactIQ Demo**](https://contact-iq.replit.app/) · [Architecture](docs/architecture.md) · [Security Controls](docs/security-controls.md) · [AI Security](docs/ai-security.md) · [Production Readiness](docs/production-readiness.md)
+
+## Executive case-study overview
+
+![ContactIQ Security Engineering Case Study](assets/contactiq-security-case-study.png)
+
+*Sanitized portfolio summary of the application, deployment finding, remediation, implemented controls, and validation results.*
+
+### Security engineering lifecycle
 
 ![ContactIQ security engineering lifecycle](assets/security-lifecycle.svg)
 
